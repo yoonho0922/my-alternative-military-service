@@ -8,3 +8,5 @@
 
 ## 도움이 될만한 포스트
 * [이스트소프트 병특 개발자 인터뷰](https://blog.estsoft.co.kr/709)
+* [2학년 학부생의 신입 개발자 취업기](https://parksb.github.io/article/27.html)
+* [신입개발자 산업기능요원 지원 경험](https://medium.com/@jongwoogatech/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90-%EC%A7%80%EC%9B%90-%EA%B2%BD%ED%97%98-f3b3f8815614)
